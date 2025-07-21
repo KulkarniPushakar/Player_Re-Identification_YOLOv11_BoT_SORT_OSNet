@@ -138,13 +138,9 @@ Player_re-Identification_YOLOv11_BoT_SORT/
 
 ![Flowchart](assets/flowchart.png)  
 *Replace this with your actual flowchart image.*
+<img width="2394" height="1620" alt="_- visual selection" src="https://github.com/user-attachments/assets/300fa0a2-4e15-4e54-8456-0f82e9b6439d" />
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
 
 **GitHub:**
