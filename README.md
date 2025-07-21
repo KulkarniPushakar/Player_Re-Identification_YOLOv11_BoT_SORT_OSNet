@@ -40,8 +40,8 @@ Follow these steps to get the project up and running on your local machine.
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/KulkarniPushakar/Player_re-Identification_YOLOv11_BoT_SORT.git
-cd Player_re-Identification_YOLOv11_BoT_SORT
+git clone https://github.com/KulkarniPushakar/Player_Re-Identification_YOLOv11_BoT_SORT_OSNet.git
+cd Player_Re-Identification_YOLOv11_BoT_SORT_OSNet
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
