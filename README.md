@@ -2,7 +2,8 @@
 
 This project implements a real-time player tracking and re-identification system for sports analytics. It uses a YOLOv11 model for object detection and the BoT-SORT algorithm for robust tracking. Key features include bounding box smoothing to reduce jitter and an interactive interface that allows users to click on a player to visualize their trajectory on the field.
 
-![Demo GIF or Screenshot](assets/demo.gif) <!-- Replace with your actual demo image or GIF -->
+![Demo GIF or Screensho<img width="1919" height="1010" alt="Screenshot 2025-07-21 224139" src="https://github.com/user-attachments/assets/7376fd38-e93a-40c5-ace2-ce27bd4da6b7" />
+t](assets/demo.gif) <!-- Replace with your actual demo image or GIF -->
 <img width="1919" height="1010" alt="Screenshot 2025-07-21 224139" src="https://github.com/user-attachments/assets/9ca2216a-56bc-4c38-81f9-727c4a3364ac" />
 
 ---
@@ -139,7 +140,8 @@ Player_re-Identification_YOLOv11_BoT_SORT/
 
 ![Flowchart](assets/flowchart.png)  
 *Replace this with your actual flowchart image.*
-<img width="2394" height="1620" alt="_- visual selection" src="https://github.com/user-attachments/assets/300fa0a2-4e15-4e54-8456-0f82e9b6439d" />
+<img width="2394" height="1620" alt="_- visual selection" src="https://github.com/user-attachments/assets/b2667476-07c6-4f7c-bb3c-c707c8c36155" />
+
 
 ---
 
