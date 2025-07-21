@@ -148,5 +148,3 @@ Player_re-Identification_YOLOv11_BoT_SORT/
 
 ---
 
-
-**GitHub:**
