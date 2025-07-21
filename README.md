@@ -140,8 +140,7 @@ Player_re-Identification_YOLOv11_BoT_SORT/
 ---
 
 ## 📊 Flowchart
-
-![Flowchart](assets/flowchart.png)  
+  
 
 <img width="2394" height="1620" alt="_- visual selection" src="https://github.com/user-attachments/assets/b2667476-07c6-4f7c-bb3c-c707c8c36155" />
 
