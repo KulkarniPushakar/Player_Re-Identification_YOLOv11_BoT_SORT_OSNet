@@ -1,19 +1,13 @@
-# Folders to ignore
+
 .venv/
 __pycache__/
-assets/
-runs/
-output_2/
 
-# Ignore all model files
 *.pt
 
-# Allow specific important files
 !requirements.txt
 !tracker.py
 !bbox_smoother.py
 !yolo_detector.py
 !yolo_detection_tracking.py
 
-# Allow nested .gitignore
 !models/.gitignore
