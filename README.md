@@ -4,9 +4,12 @@ This project implements a real-time player tracking and re-identification system
 
 ![Demo GIF or Screensho<img width="1919" height="1010" alt="Screenshot 2025-07-21 224139" src="https://github.com/user-attachments/assets/7376fd38-e93a-40c5-ace2-ce27bd4da6b7" />
 t](assets/demo.gif) <!-- Replace with your actual demo image or GIF -->
-<img width="1919" height="1010" alt="Screenshot 2025-07-21 224139" src="https://github.com/user-attachments/assets/9ca2216a-56bc-4c38-81f9-727c4a3364ac" />
 
----
+
+
+<img width="1919" height="1010" alt="Screenshot 2025-07-21 224139" src="https://github.com/user-attachments/assets/1ede41f0-a371-4ed0-a02c-b12cd2cfcabf" />
+
+
 
 ## ✨ Key Features
 
